@@ -45,4 +45,4 @@ Python/Machine Learning：
 
 https://www.udemy.com/complete-python-bootcamp/
 
-https://www.udemy.com/python-for ... -learning-bootcamp/.
+https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?LSNPUBID=skg%2FSko%2FYbo&ranEAID=skg%2FSko%2FYbo&ranMID=39197&ranSiteID=skg_Sko_Ybo-UfVmsUr.5UIEdzTl_VP3_A&utm_medium=udemyads&utm_source=aff-campaign
