@@ -10,3 +10,5 @@
 4) SQL 从0到1
 5) Powerbi 从0到1
 6) A/B testing 从0到1
+
+后续还会增加时间序列，data mining和deeo learning等相关部分……
