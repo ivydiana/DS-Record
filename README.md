@@ -19,6 +19,7 @@
 DS Analytics 主要就是Product/SQL/基本概率，不用刷算法。
 
 SQL
+
 https://www.udemy.com/the-complete-sql-bootcamp/
 
 https://www.w3schools.com/sql/
