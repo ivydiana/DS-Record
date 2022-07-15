@@ -5,9 +5,9 @@
 
 本文档记录的包括：
 1) 统计基础知识
-2) Tableau 从0到1
-3) Python 从0到1
-4) SQL 从0到1
+2) Python 从0到1
+3) SQL 从0到1
+4) Tableau 从0到1
 5) Powerbi 从0到1
 6) A/B testing 从0到1
 
