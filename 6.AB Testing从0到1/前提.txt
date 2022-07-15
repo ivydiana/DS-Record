@@ -6,7 +6,7 @@ ivy我也在国内DS岗求职信息看到，如滴滴 快手等招聘数据分�
 本部分可通过line 4提供的链接进行学习，
 https://classroom.udacity.com/courses/ud257/
 
-line 7是有关A/Btesting的课后总结，
+line 7是有关A/Btesting的课后总结，【总结内容我已经粘贴到word文档，那个叫ABtesting（来自一亩三分地）就是】
 https://www.1point3acres.com/bbs/thread-801430-1-1.html
 
-后续我将会提供word版本的课程笔记/求职有关A/Btesting的考点发布到github这个部分里。
+后续我将会提供详细的word版本的课程笔记/求职有关A/Btesting的考点发布到github这个部分里。
