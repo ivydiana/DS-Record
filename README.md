@@ -37,3 +37,12 @@ https://classroom.udacity.com/courses/ud257
 
 https://classroom.udacity.com/courses/ud979
 
+概率统计：
+
+https://newonlinecourses.science.psu.edu/stat414/
+
+Python/Machine Learning：
+
+https://www.udemy.com/complete-python-bootcamp/
+
+https://www.udemy.com/python-for ... -learning-bootcamp/.
