@@ -46,3 +46,11 @@ Python/Machine Learning：
 https://www.udemy.com/complete-python-bootcamp/
 
 https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?LSNPUBID=skg%2FSko%2FYbo&ranEAID=skg%2FSko%2FYbo&ranMID=39197&ranSiteID=skg_Sko_Ybo-UfVmsUr.5UIEdzTl_VP3_A&utm_medium=udemyads&utm_source=aff-campaign
+
+另外地里也有很多DS准备资料贴和面经，大家可以多多借鉴：
+
+https://www.1point3acres.com/bbs/thread-318082-1-1.html
+
+https://www.1point3acres.com/bbs/thread-295085-1-1.html.
+
+
