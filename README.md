@@ -15,3 +15,26 @@
 6) A/B testing 从0到1
 
 后续还会增加时间序列，data mining和deep learning等相关部分……
+
+DS Analytics 主要就是Product/SQL/基本概率，不用刷算法。
+SQL
+https://www.udemy.com/the-complete-sql-bootcamp/
+https://www.w3schools.com/sql/
+https://mode.com/sql-tutorial/introduction-to-sql/. 1point3acres
+..
+https://leetcode.com/problemset/database/
+Product Design
+https://classroom.udacity.com/courses/ud509
+AB Test
+https://classroom.udacity.com/courses/ud257
+https://classroom.udacity.com/courses/ud979
+概率统计
+https://newonlinecourses.science.psu.edu/stat414/
+Python/Machine Learning
+https://www.udemy.com/complete-python-bootcamp/
+https://www.udemy.com/python-for ... -learning-bootcamp/.
+另外地里也有很多DS准备资料贴和面经，大家可以多多借鉴~~
+https://www.1point3acres.com/bbs/thread-318082-1-1.html
+https://www.1point3acres.com/bbs/thread-295085-1-1.html.
+https://www.1point3acres.com/bbs ... display&fid=259
+SQLhttps://www.udemy.com/the-comple ... et/database/Product Designhttps://classroom.udacity.com/courses/ud509AB Testhttps://classroom.udacity.com/courses/ud257[url]https://classroom.udacity.com/courses/ud979[/url]概率统计https://newonlinecourses.science.psu.edu/stat414/Python/Machine Learninghttps://www.udemy.com/complete-p ... -learning-bootcamp/另外地里也有很多DS准备资料贴和面经，大家可以多多借鉴~~https://www.1point3acres.com/bbs/thread-318082-1-1.html[url]https://www.1point3acres.com/bbs/thread-295085-1-1.htmlhttps://www.1point3acres.com/bbs/forum.php?mod=forumdisplay&fid=259[/url]
