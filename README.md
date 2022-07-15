@@ -17,6 +17,7 @@
 后续还会增加时间序列，data mining和deep learning等相关部分……
 
 DS Analytics 主要就是Product/SQL/基本概率，不用刷算法。
+
 SQL
 https://www.udemy.com/the-complete-sql-bootcamp/
 
