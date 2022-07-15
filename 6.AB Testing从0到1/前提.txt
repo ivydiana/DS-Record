@@ -1,0 +1,12 @@
+A/B testing in everywhere
+作为Google,Amazon,Uber,Netflix,Paypal等大厂都青睐有加的A/B testing,它也是我们面试的一大重要考点。
+ivy我也在国内DS岗求职信息看到，如滴滴 快手等招聘数据分析师的时候也会着重要求应聘者需要熟练的掌握A/B testing，并作为面试的考点。
+简而言之，A/B testing非常重要，所以一定不能忽略。
+
+本部分可通过line 4提供的链接进行学习，
+https://classroom.udacity.com/courses/ud257/
+
+line 7是有关A/Btesting的课后总结，
+https://www.1point3acres.com/bbs/thread-801430-1-1.html
+
+后续我将会提供word版本的课程笔记/求职有关A/Btesting的考点发布到github这个部分里。
